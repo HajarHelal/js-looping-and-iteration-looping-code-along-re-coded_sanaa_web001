@@ -1,4 +1,5 @@
 // Code your solutions in this file
+
 const arr= ["Lisa", "Kaitlin", "Jan"];
 const event=["surprise"];
 
@@ -9,3 +10,15 @@ return arr,event;
 }
 
 writeCards(arr,event);
+
+
+
+function writeCards(["Ada", "Brendan", "Ali"], "birthday"); {
+  for (let i = 0; i < writeCards().length; i++) {
+    console.log(`Thank you ${writeCards[i]} for the wonderful birthday gift!`);
+  }
+
+  return writeCards;
+}
+
+wrapGifts(gifts);
