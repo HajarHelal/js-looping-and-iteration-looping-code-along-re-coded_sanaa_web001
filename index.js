@@ -18,7 +18,7 @@ return arr,event;
 //   for (let i = 0; i < writeCards().length; i++) {
 //     console.log(`Thank you ${writeCards[i]} for the wonderful birthday gift!`);
 //   }
-// 
+//
 //   return  ;
 // }
 // wrapGifts(gifts);
