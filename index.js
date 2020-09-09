@@ -10,7 +10,7 @@ function writeCards(arr,event) {
 return arr,event;
 }
 
-//writeCards(arr,event);
+writeCards(arr,event);
 
 
 
